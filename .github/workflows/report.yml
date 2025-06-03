@@ -7,7 +7,6 @@ on:
       - Run tests and code checks
     types:
       - completed
-  workflow_dispatch:
 
 permissions:
   # Required by actions/checkout
